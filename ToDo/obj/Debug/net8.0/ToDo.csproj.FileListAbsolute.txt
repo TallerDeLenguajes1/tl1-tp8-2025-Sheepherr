@@ -1,0 +1,15 @@
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\bin\Debug\net8.0\ToDo.exe
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\bin\Debug\net8.0\ToDo.deps.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\bin\Debug\net8.0\ToDo.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\bin\Debug\net8.0\ToDo.pdb
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.pdb
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp8-2025-Sheepherr\ToDo\obj\Debug\net8.0\ref\ToDo.dll
